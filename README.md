@@ -1,4 +1,3 @@
-# examenes-generator
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   Folder, FolderPlus, FolderOpen, FileText, Plus, Trash2, Edit3, 
